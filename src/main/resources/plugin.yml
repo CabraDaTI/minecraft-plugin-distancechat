@@ -1,7 +1,7 @@
 author: ericklemos
 name: DistanceChat
 version: 3.0
-main: org.cabradati.arrowhitkill.App
+main: org.cabradati.distancechat.App
 api-version: 1.19
 load: STARTUP
 libraries:
